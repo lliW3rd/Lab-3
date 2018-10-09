@@ -13,4 +13,6 @@ Lab 03
 
 5. The value of type double that produces the overflow with the factorial function is 171
 
-6. 
+6. When using floating point values the result goes out to 23 decimal points. Double values go out to 53. This makes sense because doubles are larger than floats.
+
+8. When you express the floating point value to its maximum number of digits it is less than 4.4. The double value however is not. This is because the rounding for float and doubles are different.
